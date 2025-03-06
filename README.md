@@ -1,4 +1,4 @@
-# Netflix Data Analysis Project  
+# Netflix Data Analysis Project 
 
 ## Overview  
 This project analyzes Netflix movies and shows dataset by performing data cleaning, visualization, and web scraping using Python, SQL, and Power BI.
